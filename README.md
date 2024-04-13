@@ -6,7 +6,7 @@ Absolutely! Including an image can help provide a visual representation of your 
 
 Welcome to the Amazon Frontend project! This project is a frontend implementation inspired by the design and functionality of the Amazon website. It's built using HTML, CSS, and JavaScript.
 
-![Amazon Frontend Preview](amazon_frontend_preview.png)
+
 
 ## Table of Contents
 
