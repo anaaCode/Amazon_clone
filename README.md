@@ -1,10 +1,12 @@
-Absolutely! Here's a README file for your Amazon-like frontend project:
+Absolutely! Including an image can help provide a visual representation of your project. Let's add an image of the Amazon-like frontend to the README.
 
 ---
 
 # Amazon Frontend
 
 Welcome to the Amazon Frontend project! This project is a frontend implementation inspired by the design and functionality of the Amazon website. It's built using HTML, CSS, and JavaScript.
+
+![Amazon Frontend Preview](amazon_frontend_preview.png)
 
 ## Table of Contents
 
@@ -44,4 +46,4 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ---
 
-You can modify and expand upon this README to include any additional information or features specific to your Amazon-like frontend project!
+Make sure to replace `amazon_frontend_preview.png` with the filename of your actual image. This addition should give users a quick preview of your project.
